@@ -1,0 +1,7 @@
+/* navbar css part start*/
+.menu{
+    background-color: rgb(149, 210, 210);
+}
+.navbar .container a img{
+    width: 80px;
+}
